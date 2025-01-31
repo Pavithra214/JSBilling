@@ -1,0 +1,51 @@
+﻿<Window x:Class="JSBilling.StudentDahboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JSBilling"
+        mc:Ignorable="d"
+        Title="StudentDahboard" Height="700" Width="900" Background="#f4f4f9">
+    <Grid Margin="20">
+        <!--Header-->
+        <Border Background="Chocolate" CornerRadius="10" Height="80" VerticalAlignment="Top">
+            <TextBlock Text="JSquare Student Dashboard" FontSize="24" FontWeight="Bold"
+                      Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        </Border>
+
+        <StackPanel Orientation="Horizontal">
+
+
+            <StackPanel Width="300" Height="500" Background="#0c5e9c" Margin="0,40,20,0">
+                <TextBlock Text="Check in" HorizontalAlignment="Center" Foreground="White" FontSize="20" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="Project Status"  Foreground="White" FontSize="16" FontWeight="Bold" Margin="0,20,0,0"></TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton Content="Done" IsChecked="True" x:Name="rdbprojdone" Foreground="White"></RadioButton>
+                    <RadioButton Content="Not done" x:Name="rdbprojnotdone" Foreground="White"></RadioButton>
+                </StackPanel>
+                <TextBlock Text="Notes Taken"  Foreground="White" FontSize="16" FontWeight="Bold" Margin="0,20,0,0"></TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton Content="Yes" IsChecked="True" x:Name="rdbnotesyes" Foreground="White"></RadioButton>
+                    <RadioButton Content="No" Foreground="White" x:Name="rdnnotesno"></RadioButton>
+                </StackPanel>
+                <TextBlock Text="Demo Project Status"  Foreground="White" FontSize="16" FontWeight="Bold" Margin="0,20,0,0"></TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton Content="Done" IsChecked="True" x:Name="rdbdemodone" Foreground="White"></RadioButton>
+                    <RadioButton Content="Not done" Foreground="White" x:Name="rdbdemonotdone"></RadioButton>
+                </StackPanel>
+                <Button Content="Check in" Margin="30" Height="40" x:Name="btncheckin" Click="btncheckin_Click"></Button>
+            </StackPanel>
+            <StackPanel Width="400" Height="300" Background="#419c0c">
+                <TextBlock Text="Edit Profile" HorizontalAlignment="Center" Foreground="White" FontSize="20" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="Name" FontSize="16" FontWeight="Bold" Foreground="White" Margin="0,20,0,0"></TextBlock>
+                <TextBox x:Name="txtname" Margin="0,07,0,0" BorderBrush="AntiqueWhite"></TextBox>
+                <TextBlock Text="Email" FontSize="16" FontWeight="Bold" Foreground="White" Margin="0,20,0,0"></TextBlock>
+                <TextBox x:Name="txtemail" Margin="0,07,0,0" BorderBrush="AntiqueWhite"></TextBox>
+                <TextBlock Text="Password" FontSize="16" FontWeight="Bold" Foreground="White" Margin="0,20,0,0"></TextBlock>
+                <TextBox x:Name="pbpwd" Margin="0,07,0,0" BorderBrush="AntiqueWhite"></TextBox>
+                <Button Content="Save Changes" x:Name="btnsave" Click="btnsave_Click" Foreground="White" Margin="0,20,0,0"></Button>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>
