@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1TgQ1MdTGIU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.Model\\JSBilling.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PAVITHRA\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
+    "C:\\Users\\PAVITHRA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\PAVITHRA\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\PAVITHRA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\bin\Debug\net8.0\JSBilling.Model.deps.json
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\bin\Debug\net8.0\JSBilling.Model.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\bin\Debug\net8.0\JSBilling.Model.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\JSBilling.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\JSBilling.Model.AssemblyInfoInputs.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\JSBilling.Model.AssemblyInfo.cs
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\JSBilling.Model.csproj.CoreCompileInputs.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\JSBilling.Model.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\refint\JSBilling.Model.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\JSBilling.Model.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling.Model\obj\Debug\net8.0\ref\JSBilling.Model.dll
