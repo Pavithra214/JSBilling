@@ -1,0 +1,17 @@
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBilling.BL.csproj.AssemblyReference.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBilling.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBilling.BL.AssemblyInfoInputs.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBilling.BL.AssemblyInfo.cs
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBilling.BL.csproj.CoreCompileInputs.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\bin\Debug\net8.0\JSBilling.BL.deps.json
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\bin\Debug\net8.0\JSBilling.BL.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\bin\Debug\net8.0\JSBilling.BL.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\bin\Debug\net8.0\JSBilling.DA.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\bin\Debug\net8.0\JSBilling.DA.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBillin.CE56CCEC.Up2Date
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBilling.BL.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\refint\JSBilling.BL.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\JSBilling.BL.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\obj\Debug\net8.0\ref\JSBilling.BL.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\bin\Debug\net8.0\JSBilling.Model.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.BL\bin\Debug\net8.0\JSBilling.Model.pdb
