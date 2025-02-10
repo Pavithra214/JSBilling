@@ -1,0 +1,12 @@
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\bin\Debug\net8.0\JSBilling.DA.deps.json
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\bin\Debug\net8.0\JSBilling.DA.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\bin\Debug\net8.0\JSBilling.DA.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\JSBilling.DA.csproj.AssemblyReference.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\JSBilling.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\JSBilling.DA.AssemblyInfoInputs.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\JSBilling.DA.AssemblyInfo.cs
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\JSBilling.DA.csproj.CoreCompileInputs.cache
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\JSBilling.DA.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\refint\JSBilling.DA.dll
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\JSBilling.DA.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling.DA\obj\Debug\net8.0\ref\JSBilling.DA.dll
