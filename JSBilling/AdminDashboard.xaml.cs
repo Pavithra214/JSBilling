@@ -1,4 +1,6 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using JSBilling.BL;
+using JSBilling.Model;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -24,16 +26,18 @@ namespace JSBilling
         public AdminDashboard()
         {
             InitializeComponent();
-            string sql = "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=JS;Data Source=DESKTOP-10MGO6D\\SQLEXPRESS;Encrypt=False\r\n";
-            SqlConnection sqlConnection = new SqlConnection(sql);
-            sqlConnection.Open();
+
+            AdminDash adminDash = new AdminDash();
             string query = "Select * from StudentDetails";
-            SqlCommand ocmd=new SqlCommand(query, sqlConnection);
-            SqlDataAdapter adapter = new SqlDataAdapter(ocmd);
-            DataSet set = new DataSet();
-            adapter.Fill(set);
-            lststudent.ItemsSource = set.Tables[0].DefaultView;
-            sqlConnection.Close();
+            List<Admin> list=adminDash.getCheckindata(query);
+            lststudent.ItemsSource = list;
+           
+        }
+
+        private void btnpaycourse_Click(object sender, RoutedEventArgs e)
+        {
+           
+
         }
     }
 }

@@ -70,3 +70,12 @@ C:\Users\PAVITHRA\source\repos\JSBilling\obj\Debug\net8.0-windows\AdminDashboard
 C:\Users\PAVITHRA\source\repos\JSBilling\obj\Debug\net8.0-windows\StudentDahboard.g.cs
 C:\Users\PAVITHRA\source\repos\JSBilling\obj\Debug\net8.0-windows\AdminDashboard.baml
 C:\Users\PAVITHRA\source\repos\JSBilling\obj\Debug\net8.0-windows\StudentDahboard.baml
+C:\Users\PAVITHRA\source\repos\JSBilling\obj\Debug\net8.0-windows\PaymentAndCourses.g.cs
+C:\Users\PAVITHRA\source\repos\JSBilling\obj\Debug\net8.0-windows\PaymentAndCourses.baml
+C:\Users\PAVITHRA\source\repos\JSBilling\bin\Debug\net8.0-windows\JSBilling.BL.dll
+C:\Users\PAVITHRA\source\repos\JSBilling\bin\Debug\net8.0-windows\JSBilling.DA.dll
+C:\Users\PAVITHRA\source\repos\JSBilling\bin\Debug\net8.0-windows\JSBilling.BL.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling\bin\Debug\net8.0-windows\JSBilling.DA.pdb
+C:\Users\PAVITHRA\source\repos\JSBilling\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\PAVITHRA\source\repos\JSBilling\bin\Debug\net8.0-windows\JSBilling.Model.dll
+C:\Users\PAVITHRA\source\repos\JSBilling\bin\Debug\net8.0-windows\JSBilling.Model.pdb

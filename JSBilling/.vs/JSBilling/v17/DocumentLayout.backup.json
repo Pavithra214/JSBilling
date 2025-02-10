@@ -3,36 +3,65 @@
   "WorkspaceRootPath": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4C159554-DEC3-4DE2-BFD0-C43380627E63}|..\\JSBilling.BL\\JSBilling.BL.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling.bl\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C159554-DEC3-4DE2-BFD0-C43380627E63}|..\\JSBilling.BL\\JSBilling.BL.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling.bl\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E160106B-E254-47E3-9373-5B37C3BB601C}|..\\JSBilling.Model\\JSBilling.Model.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling.model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C159554-DEC3-4DE2-BFD0-C43380627E63}|..\\JSBilling.BL\\JSBilling.BL.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling.bl\\studentdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F3F47-F276-4E5F-925E-E44C6DBBE826}|..\\JSBilling.DA\\JSBilling.DA.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling.da\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C159554-DEC3-4DE2-BFD0-C43380627E63}|..\\JSBilling.BL\\JSBilling.BL.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling.bl\\jsbilling.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\studentdahboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:studentdahboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\studentdahboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:studentdahboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E160106B-E254-47E3-9373-5B37C3BB601C}|..\\JSBilling.Model\\JSBilling.Model.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\jsbilling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:jsbilling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\paymentandcourses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:paymentandcourses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\paymentandcourses.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:paymentandcourses.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\jsbilling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:jsbilling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|c:\\users\\pavithra\\source\\repos\\jsbilling\\studentdahboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBCCFF1D-A89B-407B-8C49-7C085048ECA6}|JSBilling.csproj|solutionrelative:studentdahboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,66 +71,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "AdminDash.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\AdminDash.cs",
+              "RelativeDocumentMoniker": "..\\JSBilling.BL\\AdminDash.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\AdminDash.cs",
+              "RelativeToolTip": "..\\JSBilling.BL\\AdminDash.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:06:44.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.DA\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "..\\JSBilling.DA\\SQLHelper.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.DA\\SQLHelper.cs",
+              "RelativeToolTip": "..\\JSBilling.DA\\SQLHelper.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:02:14.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdminDashboard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\AdminDashboard.xaml.cs",
               "RelativeDocumentMoniker": "AdminDashboard.xaml.cs",
               "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\AdminDashboard.xaml.cs",
               "RelativeToolTip": "AdminDashboard.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T13:02:45.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentDahboard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\StudentDahboard.xaml.cs",
-              "RelativeDocumentMoniker": "StudentDahboard.xaml.cs",
-              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\StudentDahboard.xaml.cs",
-              "RelativeToolTip": "StudentDahboard.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:43:48.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JSBilling.csproj",
-              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\JSBilling.csproj",
-              "RelativeDocumentMoniker": "JSBilling.csproj",
-              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\JSBilling.csproj",
-              "RelativeToolTip": "JSBilling.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T16:55:41.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T07:55:02.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T14:54:52.593Z",
               "EditorCaption": ""
@@ -109,13 +128,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AdminDashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\AdminDashboard.xaml",
-              "RelativeDocumentMoniker": "AdminDashboard.xaml",
-              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\AdminDashboard.xaml*",
-              "RelativeToolTip": "AdminDashboard.xaml*",
+              "Title": "Reg.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\Reg.cs",
+              "RelativeDocumentMoniker": "..\\JSBilling.BL\\Reg.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\Reg.cs",
+              "RelativeToolTip": "..\\JSBilling.BL\\Reg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:03:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T16:49:03.384Z",
+              "WhenOpened": "2025-01-29T07:55:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.Model\\Admin.cs",
+              "RelativeDocumentMoniker": "..\\JSBilling.Model\\Admin.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.Model\\Admin.cs",
+              "RelativeToolTip": "..\\JSBilling.Model\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:08:36.713Z",
               "EditorCaption": ""
             },
             {
@@ -124,7 +169,109 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "StudentDash.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\StudentDash.cs",
+              "RelativeDocumentMoniker": "..\\JSBilling.BL\\StudentDash.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\StudentDash.cs",
+              "RelativeToolTip": "..\\JSBilling.BL\\StudentDash.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:29:11.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "AdminDashboard.xaml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\AdminDashboard.xaml",
+              "RelativeToolTip": "AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T16:49:03.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDahboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\StudentDahboard.xaml.cs",
+              "RelativeDocumentMoniker": "StudentDahboard.xaml.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\StudentDahboard.xaml.cs",
+              "RelativeToolTip": "StudentDahboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:43:48.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JSBilling.BL",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\JSBilling.BL.csproj",
+              "RelativeDocumentMoniker": "..\\JSBilling.BL\\JSBilling.BL.csproj",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.BL\\JSBilling.BL.csproj",
+              "RelativeToolTip": "..\\JSBilling.BL\\JSBilling.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T16:23:16.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.Model\\Student.cs",
+              "RelativeDocumentMoniker": "..\\JSBilling.Model\\Student.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling.Model\\Student.cs",
+              "RelativeToolTip": "..\\JSBilling.Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:03:51.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JSBilling.csproj",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\JSBilling.csproj",
+              "RelativeDocumentMoniker": "JSBilling.csproj",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\JSBilling.csproj",
+              "RelativeToolTip": "JSBilling.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T16:55:41.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentAndCourses.xaml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\PaymentAndCourses.xaml",
+              "RelativeDocumentMoniker": "PaymentAndCourses.xaml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\PaymentAndCourses.xaml",
+              "RelativeToolTip": "PaymentAndCourses.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T09:40:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentAndCourses.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\PaymentAndCourses.xaml.cs",
+              "RelativeDocumentMoniker": "PaymentAndCourses.xaml.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\PaymentAndCourses.xaml.cs",
+              "RelativeToolTip": "PaymentAndCourses.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:41:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -136,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "StudentDahboard.xaml",
               "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\JSBilling\\StudentDahboard.xaml",
               "RelativeDocumentMoniker": "StudentDahboard.xaml",
